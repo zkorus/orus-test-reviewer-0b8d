@@ -1,0 +1,12 @@
+✔ adds two numbers (0.4663ms)
+✔ subtracts two numbers (UC-1) (0.4654ms)
+✔ subtracting a larger number from a smaller one is negative (UC-1) (0.0755ms)
+✔ subtracting zero from zero is zero (UC-1) (0.0662ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 140.6652
